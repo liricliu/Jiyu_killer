@@ -1,5 +1,5 @@
 #include<iostream>
-#include<atlbase.h>
+#include<"atlbase.h"
 
 int main(){
 	HKEY hKEY;  
